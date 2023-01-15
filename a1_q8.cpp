@@ -52,4 +52,5 @@ int main ()
         int f=rev(m);
         cout << f << endl;
     }
+    
 }
