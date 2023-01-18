@@ -8,7 +8,7 @@ int main()
     {
         for (int j=n;j>=i;j--)
         {
-            cout << '*' ;
+            cout << "*  " ;
         }
         cout << endl ;
     }
